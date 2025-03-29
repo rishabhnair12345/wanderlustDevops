@@ -1,0 +1,42 @@
+
+> frontend@0.0.0 dev
+> vite --host
+
+
+  VITE v4.5.0  ready in 358 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://143.110.246.30:5173/
+  ➜  Network: http://10.47.0.5:5173/
+  ➜  Network: http://10.122.0.2:5173/
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+
+> frontend@0.0.0 dev
+> vite --host
+
+
+  VITE v4.5.0  ready in 397 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://143.110.246.30:5173/
+  ➜  Network: http://10.47.0.5:5173/
+  ➜  Network: http://10.122.0.2:5173/
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+
+> frontend@0.0.0 dev
+> vite --host
+
+
+  VITE v4.5.0  ready in 447 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://143.110.246.30:5173/
+  ➜  Network: http://10.47.0.5:5173/
+  ➜  Network: http://10.122.0.2:5173/
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
